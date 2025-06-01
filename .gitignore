@@ -30,3 +30,4 @@ storage
 # Editor/IDE
 # .idea/
 # .vscode/
+/config
